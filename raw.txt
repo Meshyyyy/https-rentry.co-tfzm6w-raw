@@ -1,0 +1,35 @@
+{
+  "WBUI2": {
+    "settings": {
+        "OpenButton": 0,
+        "HideIcon": false,
+        "HideIconAfter": 60,
+        "IconURL": "https://imgur.com/fmj91O8",
+        "DisableIconText": false,
+        "IconPosition": 0,
+        "IconTextColor": 0,
+        "OpenOnStart": true,
+        "OpenOnStartOnlyNewPlayers": true,
+        "UpdateInterval": 12
+      },
+    "tabs": [
+      {
+        "tab1": {
+          "layout": Info,
+          "buttontext": "<RichColor Color="1,0,0,1">1 Server Stats</>",
+          "title1": "Welcome to Phoenix Fibercraft!",
+          "text1": "SERVER STATS\n\n\n\nRates\n\nHarvest - 100x\n\nBreeding 100x\n\n\n\nStacks\n\n1,000-10,000k\n\n\n\nPlayer stats\n\nHp - 50\n\nStam - 50\n\nWater - 200\n\nFood - 200\n\nOxy - 200\n\nWeight - 1,000,000\n\nFort - 20\n\nCrafting - 500\n\n\n\nDino stats\n\nMax Lvl - 150\n\n\n\nDrops\n\nWhite - Taming\n\nWhite Ring - Taming / Flak bps\n\nGreen - Kib/Skins/Soups\n\nGreen Ring - Boss/Kib/Soups\n\nBlue - Saddle Bps\n\nBlue Ring - Saddle Bps\n\nPurple - Structures\n\nPurple Ring - Structures\n\nYellow - Weapons / Ammo\n\nYellow Ring - Weapon Bps / Ammo\n\nRed - Ammo BP / Weapon BP / Saddle bp\n\nRed - Adv / Ele / Armor / ETC\n\nRed Ring - Ele / Armor / ETC\n\n\n\nTek unlocks at LVL 100\n\n\n\nPoints shop\n\n15 points every 15 mins",
+          "imageurl": "https://imgur.com/fmj91O8"
+        }
+      }
+    ],
+    "links": [
+      {
+        "link1": {
+          "text": "Discord Link",
+          "url": "https://discord.gg/NTcj5bGSNq"
+        }
+      }
+    ]
+  }
+}
